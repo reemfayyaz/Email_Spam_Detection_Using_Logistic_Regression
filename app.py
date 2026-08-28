@@ -330,3 +330,6 @@ st.caption(
     "Educational machine-learning project. Predictions depend on the training data and "
     "should not be treated as a complete email-security solution."
 )
+
+# Attribution
+st.markdown("<div class='small-note'>Made by Reem Fayyaz</div>", unsafe_allow_html=True)
